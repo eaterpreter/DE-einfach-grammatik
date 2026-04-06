@@ -20,12 +20,12 @@
 請避免一次貼超過 10 行連續原課文（例句除外），講解以摘要為主。
 ```
 
-**工作區含 `D:\Notes` 時：** 將上文中的 `@docs/`、`@learner/` 改為 `@D:\Notes\DE\docs\`、`@D:\Notes\DE\learner\`；讀取教材時路徑為 `D:\Notes\DE\units\` 等（其餘句意不變）。
 
 - 單元規劃：見根目錄 [`grammatik-roadmap.md`](grammatik-roadmap.md)。
 - 學習進度紀錄：見 [`learner/progress.md`](learner/progress.md)（讀書期由 AI 讀此檔接續下一課）。
 - 產出進度與單元登錄：見 [`docs/build-progress.md`](docs/build-progress.md) §②（給作者／建置期接手用）。
 - 單課範本與題型規格：見 [`docs/lesson-template.md`](docs/lesson-template.md)、[`docs/exercise-rules.md`](docs/exercise-rules.md)、[`docs/style-guide.md`](docs/style-guide.md)。
+**工作區含 `D:\Notes` 時：** 將上文中的 `@docs/`、`@learner/` 改為 `@D:\Notes\DE\docs\`、`@D:\Notes\DE\learner\`；讀取教材時路徑為 `D:\Notes\DE\units\` 等（其餘句意不變）。
 
 更完整的使用方式見 [`quickstart.md`](quickstart.md)。
 
